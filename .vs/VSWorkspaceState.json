@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PTS.API",
+    "\\PTS.API\\Controllers",
+    "\\PTS.Application",
+    "\\PTS.Application\\Controllers"
+  ],
+  "SelectedNode": "\\PTS.Application\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}
